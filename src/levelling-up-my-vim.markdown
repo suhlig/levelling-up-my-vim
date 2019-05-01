@@ -29,6 +29,10 @@ extracted from https://dn.ht/intermediate-vim/
 * `ca"` change (a)round quotes … means quotes get replaced too
 * `cat` change (a)round (t)ag … yep, vim understands html tags!
 
+## Changing Text
+
+* `~` to change the case of the underlying char
+
 ## Vim Surround
 
 https://github.com/tpope/vim-surround
