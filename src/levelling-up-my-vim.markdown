@@ -5,7 +5,7 @@ papersize: a4
 
 extracted from https://dn.ht/intermediate-vim/
 
-## Editing
+## Inserting
 
 * `I` to insert at the start of the line.
 * `o` to start inserting on a new line below the current one.
@@ -13,9 +13,9 @@ extracted from https://dn.ht/intermediate-vim/
 
 ## Moving
 
-* w and b for moving forward and back a word at a time.
-* fa move (f)orward to the character (a)
-* 52gg jump to line 52
+* `w` and b for moving forward and back a word at a time.
+* `fa` move (f)orward to the character (a)
+* `52gg` jump to line 52
 
 ## Editing
 
