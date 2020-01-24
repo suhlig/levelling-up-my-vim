@@ -28,6 +28,8 @@ extracted from https://dn.ht/intermediate-vim/
 * `ci"` change inside quotes (this leaves the quotes intact)
 * `ca"` change (a)round quotes … means quotes get replaced too
 * `cat` change (a)round (t)ag … yep, vim understands html tags!
+* `ctrl-a` increase number under cursor
+* `ctrl-x` decrease number under cursor
 
 ## Changing Text
 
