@@ -14,8 +14,15 @@ extracted from https://dn.ht/intermediate-vim/
 ## Moving
 
 * `w` and b for moving forward and back a word at a time.
+* 'e' move to the end of the previous word
 * `fa` move (f)orward to the character (a)
 * `52gg` jump to line 52
+
+## Deleting
+
+* `db` to Delete previous word
+* `dw` to Delete next word
+* `v` to Edit the current command in your text editor (readline in vim mode)
 
 ## Editing
 
